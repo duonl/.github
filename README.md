@@ -1,4 +1,3 @@
-# Placeholder
-Via deze github locatie zullen we enkele open source componenten gaan delen. 
-Omdat we nog aan het opstarten zijn is er op dit moment nog geen content
-
+# DUO opensource repositories
+Deze github locatie  bevat de opensource repositories van Dienst Uitvoering Onderwijs (DUO).
+Verder informatie is te vinden in de onderliggende repositories zelf. 
